@@ -11,12 +11,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-/**
- * 作者： duanyikang on 2017/2/25.
- * 邮箱： duanyikang@yixia.com
- * 描述： 气泡弹窗
- * 目标： 动态的在代码布局中使用该弹框，三角方向分别对准上下左右，根据传入的X，Y动态移动
- */
+
 
 public class BubbleDialog extends RelativeLayout {
 
